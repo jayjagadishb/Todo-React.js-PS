@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 3. **Run the Application**
 
    ```bash
-   npm start
+   npm run dev
 
 
 ## Technologies Used
