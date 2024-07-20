@@ -17,39 +17,28 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
+   git clone https://github.com/jayjagadishb/Todo-React.js-PS.git
+   cd Todo-React.Js-PS
    
 2. **Install Dependencies**
 
+   ```bash
    npm install
 
 3. **Run the Application**
 
+   ```bash
    npm start
 
 
 ## Technologies Used
->React: JavaScript library for building user interfaces.
->Redux Toolkit: Library for state management.
->Tailwind CSS: Utility-first CSS framework for styling.
->@reduxjs/toolkit: Official, opinionated, batteries-included toolset for efficient Redux development.
->nanoid: A tiny, secure, URL-friendly unique string ID generator.
+ 1. React: JavaScript library for building user interfaces.
+ 2. Redux Toolkit: Library for state management.
+ 3. Tailwind CSS: Utility-first CSS framework for styling.
+ 4. @reduxjs/toolkit: Official, opinionated, batteries-included toolset for efficient Redux development.
+ 5. nanoid: A tiny, secure, URL-friendly unique string ID generator.
 
-## Folder Structure
-.src/
- .app/
-  .store.js - Configures the Redux store.
- .components/
-  .AddTodo.js - Component for adding todos.
-  .Todos.js - Component for displaying and managing todos.
-  .SearchTodo.js - Component for searching todos.
- .features/
-  .todo/
-   .todoSlice.js - Redux slice for todos.
- .App.js - Main app component.
- .index.js - Entry point for the React application.
- .App.css - Styles for the application.
+
 
 ## Contact
 For any questions or feedback, you can reach me at jayjagadishb@gmail.com
